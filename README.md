@@ -1,2 +1,3 @@
 # funny-logger
-Keylogger implemented into Rust to scam a scammer
+
+Wrote a simple Windows keylogger in Rust — helped me out when I needed it.
